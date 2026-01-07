@@ -72,7 +72,8 @@ export const generateMockPortfolio = (category: PortfolioCategory) => {
           title: "Empty old City - Daisy Crown (Thai Ver.) / covered by RLanz",
           category: category,
           thumbnail: "https://img.youtube.com/vi/7YKIhGm9av8/maxresdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/7YKIhGm9av8"
+          videoUrl: "https://www.youtube.com/embed/7YKIhGm9av8",
+          label: "Instrumental"
         };
       }
       if (i === 2) {
